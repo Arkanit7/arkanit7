@@ -4,7 +4,7 @@
 
 I'm a software developer passionate about open source, solving complex problems, and learning new technologies. I thrive on collaboration and creating impactful software.
 
-- 🌱 Currently mastering JavaScript
+- ⚛ Currently mastering React
 - ⌨️ Favorite IDE: VS Code
 - 💙💛 Based in Ukraine
 - 🛠️ Enjoy building tools that improve developer productivity
@@ -18,22 +18,30 @@ Here are some of the technologies I work with:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![Pug](https://img.shields.io/badge/-Pug-333333?style=flat&logo=pug)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss)
-![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=sass)
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown&logoColor=000000)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css&logoColor=663399)
+![CSS Modules](https://img.shields.io/badge/-CSS_Modules-333333?style=flat&logo=cssmodules)
+![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=sass)
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-333333?style=flat&logo=shadcnui)
+![DaisyUI](https://img.shields.io/badge/-DaisyUI-333333?style=flat&logo=daisyui)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm&logoColor=CB3837)
+![Bun](https://img.shields.io/badge/-Bun-333333?style=flat&logo=bun)
+![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
+![.ENV](https://img.shields.io/badge/-.ENV-333333?style=flat&logo=dotenv)
 ![Stylelint](https://img.shields.io/badge/-Stylelint-333333?style=flat&logo=stylelint)
 ![ESLint](https://img.shields.io/badge/-ESLint-333333?style=flat&logo=eslint&logoColor=4B32C3)
 ![JSDoc](https://img.shields.io/badge/-JSDoc-333333?style=flat&logo=googledocs&logoColor=F7DF1E)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=764ABC)
+![React Router](https://img.shields.io/badge/-React_Router-333333?style=flat&logo=reactrouter)
 
 ## GitHub Stats
 
